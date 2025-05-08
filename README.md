@@ -1,4 +1,4 @@
-# reports
+# Hackathon Reports
 
 This is the respository containing the reports for the 17th NDN Hackathon, exported from our Ownly.work workspace.
 
